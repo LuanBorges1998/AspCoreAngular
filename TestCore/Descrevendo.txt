@@ -1,0 +1,5 @@
+﻿Aluno: Luan Borges dos Santos
+
+Trabalho desenvolvido acompanhando aulas do Marcoratti.
+O projeto back-end foi desenvolvido utilizando ASP .NET Core, com banco de dados SQLServer.
+O front-end foi desenvolvido em Angular.
